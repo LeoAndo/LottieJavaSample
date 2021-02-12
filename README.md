@@ -1,7 +1,7 @@
 # LottieSample
 sample for Lottie
 
-# screenShot
+# screenshot
 
 # resource
 https://lottiefiles.com/24907-party-parrot
