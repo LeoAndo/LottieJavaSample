@@ -1,7 +1,8 @@
-# LottieSample
+# LottieJavaSample
 sample for Lottie
 
 # screenshot
+<img src="capture.gif" width=320 />
 
 # resource
 https://lottiefiles.com/24907-party-parrot
