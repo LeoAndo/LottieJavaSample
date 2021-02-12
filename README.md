@@ -4,7 +4,7 @@ sample for Lottie
 # screenshot
 <img src="capture.gif" width=320 />
 
-# resource
+# data
 https://lottiefiles.com/24907-party-parrot
 
 # How to use the lottie library
